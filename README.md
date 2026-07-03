@@ -12,7 +12,6 @@ Proyecto en Java que simula un sistema de ventas
 - Generar inventario de ventas
 
 ## Estructura del Proyecto
-
 tiendita/
 
 │── src/
@@ -28,7 +27,6 @@ tiendita/
 │── README.md #actualizacion de docuemntacion
 
 │──Documents/ #Documentacion
-
 ##  Ramas creadas
 - `create-my-firth-branch`: desarrollo de nuevas funcionalidades.
 - `develop`: integración y revisión de código.
