@@ -12,11 +12,22 @@ Proyecto en Java que simula un sistema de ventas
 - Generar inventario de ventas
 
 ## Estructura del Proyecto
-- `model/` → Clases principales (Producto, Cliente, Venta).
-- `service/` → Lógica de negocio (GestorVentas).
-- `repository/` → Manejo de datos (listas en memoria).
-- `exceptions/` → Excepciones personalizadas (StockInsuficienteException, ClienteNoEncontradoException).
-- `app/` → Clase principal con `main()`.
+
+tiendita/
+
+│── src/
+
+│   └── app/#Presentacion
+
+│   ├── model/ # Entidades
+
+│   ├── service/ # Lógica de negocio
+
+│   └── repository/ # Acceso a datos
+
+│── README.md #actualizacion de docuemntacion
+
+│──Documents/ #Documentacion
 
 ##  Ramas creadas
 - `create-my-firth-branch`: desarrollo de nuevas funcionalidades.
