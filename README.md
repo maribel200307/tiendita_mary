@@ -24,9 +24,13 @@ tiendita/
 
 │   └── repository/ # Acceso a datos
 
-│── README.md #actualizacion de docuemntacion
+│── README.md #Actualizacion de docuemntacion
 
 │──Documents/ #Documentacion
+
+La estructura a usar es la arquitectura en capas, la cual se explica mejor en:
+[Estrectura de capas ](Documents/estrecturaDeCapas.drawio.png)
+
 ##  Ramas creadas
 - `create-my-firth-branch`: desarrollo de nuevas funcionalidades.
 - `develop`: integración y revisión de código.
