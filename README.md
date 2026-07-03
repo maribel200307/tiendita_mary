@@ -29,7 +29,7 @@ tiendita/
 │──Documents/ #Documentacion
 
 La estructura a usar es la arquitectura en capas, la cual se explica mejor en:
-[Estrectura de capas ](Documents/estrecturaDeCapas.drawio.png)
+[Estrectura de capas ](Documents/estructuraDeCapas.drawio.png)
 
 ##  Ramas creadas
 - `create-my-firth-branch`: desarrollo de nuevas funcionalidades.
